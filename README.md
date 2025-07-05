@@ -53,4 +53,30 @@ This repository contains links of Video lectures of Sir Nasir Hussain recorded f
 [![Type Casting - In Practice](https://img.youtube.com/vi/wnz_Ri3Iyro/sddefault.jpg)](https://youtu.be/wnz_Ri3Iyro?si=vOrqa7K1ek1BzoRf)
 
 
+## Part-3
+
+#### 1. Functions (Part 1)
+[![Functions Part 1](https://img.youtube.com/vi/eNXGlH1buYw/sddefault.jpg)](https://youtu.be/eNXGlH1buYw?si=v-mUgYyqJoIHZ-Nt)
+
+#### 2. Functions (Part 2)
+[![Functions Part 2](https://img.youtube.com/vi/wWeCK8dDuys/sddefault.jpg)](https://youtu.be/wWeCK8dDuys?si=M8xN_eJ5EXAuKwsw)
+
+#### 3. Functions (Part 3)
+[![Functions Part 3](https://img.youtube.com/vi/4pqwJWxg-nE/sddefault.jpg)](https://youtu.be/4pqwJWxg-nE?si=X1Hb1fCcA7EUChgR)
+
+#### 4. Functions (Part 4)
+[![Functions Part 4](https://img.youtube.com/vi/xwkO_1VhTUs/sddefault.jpg)](https://youtu.be/xwkO_1VhTUs?si=l6uyekjTZPhFZTk5)
+
+#### 5. Functions (Part 5)
+[![Functions Part 5](https://img.youtube.com/vi/VBH9siUi3xc/sddefault.jpg)](https://youtu.be/VBH9siUi3xc?si=BWBv3x9SE0yxyHUC)
+
+#### 6. Functions (Part 6)
+[![Functions Part 6](https://img.youtube.com/vi/U9QZn9XpX6M/sddefault.jpg)](https://youtu.be/U9QZn9XpX6M?si=0tVFCk2ymCvRsieA)
+
+#### 7. Functions (Part 7)
+[![Functions Part 7](https://img.youtube.com/vi/W4Fo-XFWhw0/sddefault.jpg)](https://youtu.be/W4Fo-XFWhw0?si=Iz0NKOeJ1-oRCAjW)
+
+#### 8. Functions (Part 8)
+[![Functions Part 8](https://img.youtube.com/vi/ZAEA90NY21k/sddefault.jpg)](https://youtu.be/W4Fo-XFWhw0?si=Iz0NKOeJ1-oRCAjW)
+
 
