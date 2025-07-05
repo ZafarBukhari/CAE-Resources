@@ -6,7 +6,7 @@ This repository contains curated **video lectures**, **learning resources**, and
 
 ---
 
-## 📘 Learn Python
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" /> Learn Python
 
 Get started with Python programming – a fundamental skill for building intelligent agentic and robotic systems.
 
@@ -14,7 +14,7 @@ Get started with Python programming – a fundamental skill for building intelli
 
 ---
 
-## 🔧 Learn Git
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" /> Learn Git
 
 Version control is essential for collaborative development in AI and robotics projects. Learn the basics and advanced features of Git.
 
