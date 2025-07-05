@@ -6,3 +6,18 @@ This repository contains curated **video lectures**, **learning resources**, and
 
 ---
 
+## 🔧 Learn Git
+
+Version control is essential for collaborative development in AI and robotics projects. Learn the basics and advanced features of Git.
+
+👉 [Learn Git](https://github.com/ZafarBukhari/CAE-Resources/tree/main/Git)
+
+---
+
+## 📘 Learn Python
+
+Get started with Python programming – a fundamental skill for building intelligent agentic and robotic systems.
+
+👉 [Learn Python](https://github.com/ZafarBukhari/CAE-Resources/tree/main/Python)
+
+---
