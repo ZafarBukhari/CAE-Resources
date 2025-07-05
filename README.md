@@ -77,6 +77,6 @@ This repository contains links of Video lectures of Sir Nasir Hussain recorded f
 [![Functions Part 7](https://img.youtube.com/vi/W4Fo-XFWhw0/sddefault.jpg)](https://youtu.be/W4Fo-XFWhw0?si=Iz0NKOeJ1-oRCAjW)
 
 #### 8. Functions (Part 8)
-[![Functions Part 8](https://img.youtube.com/vi/ZAEA90NY21k/sddefault.jpg)](https://youtu.be/W4Fo-XFWhw0?si=Iz0NKOeJ1-oRCAjW)
+[![Functions Part 8](https://img.youtube.com/vi/ZAEA90NY21k/sddefault.jpg)](https://youtu.be/ZAEA90NY21k?si=nfxPnUOsuHZqDjaq)
 
 
