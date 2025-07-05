@@ -13,8 +13,8 @@ This repository contains Git and GitHub video lectures recorded for **PIAIC Stud
 ## Git & GitHub Lectures
 
 1. [Git Intro](https://www.youtube.com/watch?v=MiXAma2db8Y)
-2. [Version Control](https://www.youtube.com/watch?v=AhIJw-rZPmI)
-3. [Version Control](https://www.youtube.com/watch?v=smhTTUakOvg)
+2. [Version Control Part 1](https://www.youtube.com/watch?v=AhIJw-rZPmI)
+3. [Version Control Part 2](https://www.youtube.com/watch?v=smhTTUakOvg)
 4. [VCS Kind of Database](https://www.youtube.com/watch?v=xtqUFDapCmo)
 5. [VCS Timeline](https://www.youtube.com/watch?v=_NSgBGVxkL4)
 6. [Installing Git on Windows](https://www.youtube.com/watch?v=VvMhNw68Af4)
